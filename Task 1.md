@@ -1,15 +1,9 @@
-Wake up
-
-Play on my phone
-
-Take a shower
-
-Blow my hair
-
-Get dressed
-
-Play with the dogs
-
+Wake up  
+Play on my phone  
+Take a shower   
+Blow my hair  
+Get dressed  
+Play with the dogs  
 Get in the car
 
 Go to 7-11
