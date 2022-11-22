@@ -1,6 +1,7 @@
 Wake up  
 Play on my phone  
 Take a shower   
+Brush my teeth  
 Blow my hair  
 Get dressed  
 Play with the dogs  
