@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T09:33:25.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="qH9T98NUZ1QwQKfQP-o2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T09:36:32.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="VvXVXBKC7uYK0cvDs_7g" type="github">
   <diagram id="FNWRE3YLiVX2Ff2JNuzL" name="Page-1">
     <mxGraphModel dx="1381" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="duYih4cldilSCGjqg_UM-34" value="If number = 3" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="690" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="duYih4cldilSCGjqg_UM-38" value="Please enter number&lt;br&gt;less or equal to ten again" style="shape=display;whiteSpace=wrap;html=1;rounded=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="duYih4cldilSCGjqg_UM-38" value="Please enter number&lt;br&gt;less or equal to ten again." style="shape=display;whiteSpace=wrap;html=1;rounded=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="550" y="360" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="duYih4cldilSCGjqg_UM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="duYih4cldilSCGjqg_UM-39" target="duYih4cldilSCGjqg_UM-6">
@@ -106,7 +106,7 @@
         <mxCell id="duYih4cldilSCGjqg_UM-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="duYih4cldilSCGjqg_UM-47" target="duYih4cldilSCGjqg_UM-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="duYih4cldilSCGjqg_UM-47" value="Correct! very good" style="shape=display;whiteSpace=wrap;html=1;rounded=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="duYih4cldilSCGjqg_UM-47" value="Correct! very good." style="shape=display;whiteSpace=wrap;html=1;rounded=0;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="363" y="800" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="duYih4cldilSCGjqg_UM-49" value="End" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
