@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T09:47:10.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="npz8HdNYauWSRIOr3QEz" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T09:47:21.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="CwEK9C-rfyE0_TwchmuB" version="20.6.0" type="github">
   <diagram id="V4Y8TJqZd0EDvMDjpy8b" name="Page-1">
     <mxGraphModel dx="1381" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -359,7 +359,7 @@
             <mxPoint x="328.5" y="1700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6GAo4FBdKoqmxvET7YwU-4" value="Ask money from mother" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="6GAo4FBdKoqmxvET7YwU-4" value="Get some money from mother" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="268.5" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
